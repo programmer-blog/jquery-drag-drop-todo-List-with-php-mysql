@@ -1,6 +1,6 @@
 #Database SQL Script 
 
-    CREATE DATABASE test; 
+CREATE DATABASE test; 
 
 CREATE TABLE `listitems` (
 
